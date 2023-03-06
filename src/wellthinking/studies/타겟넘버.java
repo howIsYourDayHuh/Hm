@@ -23,7 +23,7 @@ public class 타겟넘버 {
         int countOfTargetedNums = 0;
         int cnt     = numbers.length;
         for(int index = 1; index <= numbers.length; index++){
-
+            // ?
             if(index == cnt){
                 break;
             }
